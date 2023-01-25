@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Chivo+Mono:wght@100&family=Poppins:ital,wght@1,100&display=swap');
+* {
+    font-family: 'Chivo Mono', monospace;
+    background-color: skyblue;
+    color: white;
+    font-size: 20px;
+    font-weight: 300;
+}
+img{
+    background-position: center;
+    background-size: 30%;
+}
